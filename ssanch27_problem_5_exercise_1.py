@@ -64,7 +64,7 @@ def run_problem_5(np_file):
     # Part B
     print("Part B")
 
-    print("This part takes a couple of minutes to execute do the high number of iterations set in the NMF model to assure it converges.\nLocally it takes 1 minute, but in Colab it can take around 5 minutes")
+    print("This part takes a couple of minutes to execute do the high number of iterations set in the NMF model to assure it converges.\nLocally it takes 1 minute, but in Colab it can take around 5 to 10 minutes")
 
     # Get NMF model
     n_components_nmf = 2
